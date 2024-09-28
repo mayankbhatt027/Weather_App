@@ -1,0 +1,19 @@
+body
+{
+    background-image: url(pic1.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+   
+    background-color: skyblue; 
+}
+
+#app
+{
+
+     background-image: linear-gradient(to bottom right,rgb(59, 216, 211),rgb(246, 239, 39));
+    border-radius: 20px;
+}
